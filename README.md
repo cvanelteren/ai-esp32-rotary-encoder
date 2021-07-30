@@ -36,11 +36,11 @@ Restart the Arduino IDE and follow the examples located at
 
 This are instructions for "Rotary Encoder Module" which is actually Rotary Encoder with 2 resistors on board.  
 
-CLK (A pin) - connect to any microcontroler intput pin with interrupt -> in this example pin 32
+CLK (A pin) - connect to any microcontroler input pin with interrupt -> in this example pin 32
 
-DT (B pin) - connect to any microcontroler intput pin with interrupt -> in this example pin 21
+DT (B pin) - connect to any microcontroler input pin with interrupt -> in this example pin 21
 
-SW (button pin) - connect to any microcontroler intput pin -> in this example pin 25
+SW (button pin) - connect to any microcontroler input pin -> in this example pin 25
 
 VCC - for this you can two options:
 
